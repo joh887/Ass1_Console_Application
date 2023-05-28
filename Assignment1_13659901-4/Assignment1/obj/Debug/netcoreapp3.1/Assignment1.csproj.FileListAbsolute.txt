@@ -1,0 +1,66 @@
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\johmi\OneDrive\바탕 화면\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Desktop\과제_데스크탑\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Downloads\Ass1_13659901\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Downloads\Assignment1_13659901-2\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\User\Desktop\Assignment1_13659901-3\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache

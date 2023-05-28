@@ -1,0 +1,20 @@
+First Name|Minsoo
+Last Name|Joh
+Address|Sydney, UTS
+Phone|123123
+Email|johminsoo@gmail.com
+accountNo|100000
+Balance|5134
+28.09.2021|Deposit|500|500
+28.09.2021|Withdraw|100|400
+28.09.2021|Deposit|100|500
+28.09.2021|Deposit|1000|1500
+28.09.2021|Deposit|1000|2500
+28.09.2021|Deposit|1000|3500
+28.09.2021|Deposit|314|3814
+28.09.2021|Deposit|1000|4814
+30.09.2021|Deposit|340|5154
+30.09.2021|Deposit|1000|6154
+30.09.2021|Withdraw|1000|5154
+30.09.2021|Withdraw|20|5134
+30.09.2021|Withdraw|0|5134

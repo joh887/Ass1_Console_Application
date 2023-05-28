@@ -1,0 +1,7 @@
+First Name|Finally
+Last Name|done
+Address|no
+Phone|123
+Email|error@gmail.com
+accountNo|100003
+Balance|0

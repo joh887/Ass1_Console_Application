@@ -1,0 +1,7 @@
+First Name|Song
+Last Name|yee
+Address|UTS
+Phone|12345
+Email|johminsoo@gmail.com
+accountNo|100002
+Balance|0
